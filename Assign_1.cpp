@@ -163,8 +163,10 @@ int main() {
         cout<<maxi<<endl;
     }
     default:
+        cout<<"Please enter a valid option"<<endl;
         break;
     }
     
     return 0;
 }
+
